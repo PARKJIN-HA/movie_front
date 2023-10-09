@@ -1,0 +1,12 @@
+.RootDiv {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+.Table {
+  color: white;
+  justify-content: center;
+}
+.Row {
+  color: white;
+}
